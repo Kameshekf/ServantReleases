@@ -1,14 +1,14 @@
 {
-  "version": "1.2.4",
-  "url": "https://cdn.servant-ru.online/servantmod.jar?v=1.2.4",
-  "sha256": "8a667dab049ca977c8349c0a1f7496f6b750cd55324499c0073effe752ae0839",
-  "size": 726829,
+  "version": "1.2.5",
+  "url": "https://servant-ru.online/api/mod/servantmod.jar",
+  "sha256": "dfd2b233592a90bc4cad1c75a3d183120d8fac9d951138616087085f4a1e4d69",
+  "size": 728213,
   "required": true,
-  "notes": "Universal release 1.2.4: Fixed resource pack metadata compatibility across Minecraft 1.21.10, 1.21.11, and 26.3; automatic pack_format adaptation with clean fallback.",
+  "notes": "Universal release 1.2.5: Fixed encrypted resource pack mounting and toggle synchronization (/servantpack on/off); prioritized site API downloads with immediate speed fallback; fixed spectator player spectating camera bug.",
   "mirrors": {
-    "cdn": "https://cdn.servant-ru.online/servantmod.jar?v=1.2.4",
     "direct": "https://servant-ru.online/api/mod/servantmod.jar",
     "bypass": "https://srv-api-vps-92jksdf83.servant-ru.online:8081/api/mod/servantmod.jar",
+    "cdn": "https://cdn.servant-ru.online/servantmod.jar?v=1.2.5",
     "github": "https://github.com/Kameshekf/ServantReleases/releases/latest/download/servantmod.jar"
   }
 }
