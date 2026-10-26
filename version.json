@@ -1,0 +1,14 @@
+{
+  "version": "1.2.3",
+  "url": "https://cdn.servant-ru.online/servantmod.jar?v=1.2.3",
+  "sha256": "a9f276eda4d2560b1f5f4d52c3fd021e99345310631c5bc039d26e77a1e8a0c0",
+  "size": 711344,
+  "required": true,
+  "notes": "Universal release 1.2.3: Fixed spectator camera possession bug, fixed macOS updater and restart script, added multi-mirror auto-updater with CDN & GitHub fallbacks.",
+  "mirrors": {
+    "cdn": "https://cdn.servant-ru.online/servantmod.jar?v=1.2.3",
+    "direct": "https://servant-ru.online/api/mod/servantmod.jar",
+    "bypass": "https://srv-api-vps-92jksdf83.servant-ru.online:8081/api/mod/servantmod.jar",
+    "github": "https://github.com/Kameshekf/ServantReleases/releases/latest/download/servantmod.jar"
+  }
+}
