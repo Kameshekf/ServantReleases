@@ -1,14 +1,14 @@
 {
-  "version": "1.2.6",
+  "version": "1.2.9",
   "url": "https://servant-ru.online/api/mod/servantmod.jar",
-  "sha256": "4e1bbc9074ee7c83b5c55d38579e0eed7b6f756da180e74e1b42f9a013d7235b",
-  "size": 728622,
+  "sha256": "dc62bd4cf3936405dad8d997ac52207f7580a7d5f0f1591a548e125175a78211",
+  "size": 732289,
   "required": true,
-  "notes": "Universal release 1.2.6: Fixed infinite resource pack reload loop by eliminating erroneous client tick pack toggle patch; added debounce and reentrancy protection to pack selection.",
+  "notes": "Universal release 1.2.9: Fixed pack.png stream corruption and sanitized pack.mcmeta format across MC 1.21.10, 1.21.11, and 26.3.",
   "mirrors": {
     "direct": "https://servant-ru.online/api/mod/servantmod.jar",
     "bypass": "https://srv-api-vps-92jksdf83.servant-ru.online:8081/api/mod/servantmod.jar",
-    "cdn": "https://cdn.servant-ru.online/servantmod.jar?v=1.2.6",
+    "cdn": "https://cdn.servant-ru.online/servantmod.jar?v=1.2.9",
     "github": "https://github.com/Kameshekf/ServantReleases/releases/latest/download/servantmod.jar"
   }
 }
