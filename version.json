@@ -1,14 +1,14 @@
 {
-  "version": "1.2.5",
+  "version": "1.2.6",
   "url": "https://servant-ru.online/api/mod/servantmod.jar",
-  "sha256": "dfd2b233592a90bc4cad1c75a3d183120d8fac9d951138616087085f4a1e4d69",
-  "size": 728213,
+  "sha256": "4e1bbc9074ee7c83b5c55d38579e0eed7b6f756da180e74e1b42f9a013d7235b",
+  "size": 728622,
   "required": true,
-  "notes": "Universal release 1.2.5: Fixed encrypted resource pack mounting and toggle synchronization (/servantpack on/off); prioritized site API downloads with immediate speed fallback; fixed spectator player spectating camera bug.",
+  "notes": "Universal release 1.2.6: Fixed infinite resource pack reload loop by eliminating erroneous client tick pack toggle patch; added debounce and reentrancy protection to pack selection.",
   "mirrors": {
     "direct": "https://servant-ru.online/api/mod/servantmod.jar",
     "bypass": "https://srv-api-vps-92jksdf83.servant-ru.online:8081/api/mod/servantmod.jar",
-    "cdn": "https://cdn.servant-ru.online/servantmod.jar?v=1.2.5",
+    "cdn": "https://cdn.servant-ru.online/servantmod.jar?v=1.2.6",
     "github": "https://github.com/Kameshekf/ServantReleases/releases/latest/download/servantmod.jar"
   }
 }
