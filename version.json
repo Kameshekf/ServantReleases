@@ -1,14 +1,14 @@
 {
-  "version": "1.3.0",
+  "version": "1.3.1",
   "url": "https://servant-ru.online/api/mod/servantmod.jar",
-  "sha256": "b3064206dd5ab7f7c7fd68c12a7ce62bf879814d1fcf68c6989fc2e896e1c946",
-  "size": 1060546,
+  "sha256": "42d2b650db15fa74817de4ae5bec57444f5a466b10cc51e8b01ac3b4a2efeb29",
+  "size": 18808092,
   "required": true,
-  "notes": "Плановое обновление ServantMod 1.3.0: восстановление защиты доменов сервера, исправление безопасности манифестов, поддержка HTTP Range resume, LRU-кэш ресурспаков, ускоренный O(1) поиск ассетов и нативная поддержка ARM64/телефонных лаунчеров.",
+  "notes": "ServantMod 1.3.1: Обновление ресурспака, фиксы синхронизации и предотвращение циклов перезагрузки на 26.3 и 1.21.x.",
   "mirrors": {
     "direct": "https://servant-ru.online/api/mod/servantmod.jar",
     "bypass": "https://srv-api-vps-92jksdf83.servant-ru.online:8081/api/mod/servantmod.jar",
-    "cdn": "https://cdn.servant-ru.online/servantmod.jar?v=1.3.0",
+    "cdn": "https://cdn.servant-ru.online/servantmod.jar?v=1.3.1",
     "github": "https://github.com/Kameshekf/ServantReleases/releases/latest/download/servantmod.jar"
   }
 }
