@@ -1,14 +1,14 @@
 {
-  "version": "1.6.0",
+  "version": "1.7.0",
   "url": "https://servant-ru.online/api/mod/servantmod.jar",
-  "sha256": "ff89bc6c881a7cd4288722318b65948e266881eb63c6924fd517b0674b535389",
-  "size": 35774079,
+  "sha256": "0831ee57166dabde9d51ffc96d378ea33173f040edf463855213a85319cdf66d",
+  "size": 35500704,
   "required": true,
-  "notes": "ServantMod 1.6.0: Универсальный билд (1.21.10, 1.21.11, 26.3), обновление ресурспака и нативных библиотек.",
+  "notes": "ServantMod 1.7.0: Универсальный билд (1.21.10, 1.21.11, 26.3), обновление ресурспака и нативных библиотек.",
   "mirrors": {
     "direct": "https://servant-ru.online/api/mod/servantmod.jar",
     "bypass": "https://srv-api-vps-92jksdf83.servant-ru.online:8081/api/mod/servantmod.jar",
-    "cdn": "https://cdn.servant-ru.online/servantmod.jar?v=1.6.0",
+    "cdn": "https://cdn.servant-ru.online/servantmod.jar?v=1.7.0",
     "github": "https://github.com/Kameshekf/ServantReleases/releases/latest/download/servantmod.jar"
   }
 }
